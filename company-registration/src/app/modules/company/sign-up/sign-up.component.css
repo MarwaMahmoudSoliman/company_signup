@@ -1,0 +1,74 @@
+.signup-container {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 12px;
+    background: #f9f9f9;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    font-family: "Segoe UI", sans-serif;
+}
+
+.signup-container h2 {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #3f51b5;
+}
+
+form label {
+    font-weight: 600;
+    margin-top: 15px;
+    display: block;
+    color: #333;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
+form input[type="url"],
+form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: border 0.3s ease;
+}
+
+form input:focus {
+    border-color: #3f51b5;
+    outline: none;
+}
+
+.logo-preview {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.logo-preview img {
+    max-width: 120px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button[type="submit"] {
+    width: 100%;
+    background: #3f51b5;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-top: 24px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background: #303f9f;
+}
+
+button:disabled {
+    background: #aaa;
+    cursor: not-allowed;
+}

@@ -1,0 +1,1979 @@
+{
+  "Version": 1,
+  "Hash": "asAlYDtdqf1HHJkfKHMVeK4CJh8wdGW38ziu+q61ipc=",
+  "Source": "AiCompany",
+  "BasePath": "_content/AiCompany",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AiCompany\\wwwroot",
+      "Source": "AiCompany",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/0b64cf77-1816-49a8-bd4f-2e17eb43bfa6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1yrrlq7pab",
+      "Integrity": "x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\1fa417f8-cd61-417a-a1f2-0019a23a8a74.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/1fa417f8-cd61-417a-a1f2-0019a23a8a74#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1yrrlq7pab",
+      "Integrity": "x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1fa417f8-cd61-417a-a1f2-0019a23a8a74.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\221e92fe-d9dc-4094-a02d-062a06ff4b76.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/221e92fe-d9dc-4094-a02d-062a06ff4b76#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0c4307wvi",
+      "Integrity": "M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\221e92fe-d9dc-4094-a02d-062a06ff4b76.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\3487aba2-461c-4017-b844-6ab2904ea1b6.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/3487aba2-461c-4017-b844-6ab2904ea1b6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3487aba2-461c-4017-b844-6ab2904ea1b6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\366bff62-e60c-4aec-ad1c-c277e22fbef1.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/366bff62-e60c-4aec-ad1c-c277e22fbef1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\366bff62-e60c-4aec-ad1c-c277e22fbef1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\4017bf75-4943-4f23-8fe6-6b58bbac5c16.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/4017bf75-4943-4f23-8fe6-6b58bbac5c16#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4017bf75-4943-4f23-8fe6-6b58bbac5c16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\5071f1d2-54bd-4c07-868e-87ebc2ed1293.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/5071f1d2-54bd-4c07-868e-87ebc2ed1293#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5071f1d2-54bd-4c07-868e-87ebc2ed1293.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\616ae63c-ce4a-47f2-9362-0e4fe4c78eea.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/616ae63c-ce4a-47f2-9362-0e4fe4c78eea#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\616ae63c-ce4a-47f2-9362-0e4fe4c78eea.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0c4307wvi",
+      "Integrity": "M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\7707a749-1d2f-4eba-9816-9ca21da5038f.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/7707a749-1d2f-4eba-9816-9ca21da5038f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7707a749-1d2f-4eba-9816-9ca21da5038f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\916c4440-59ad-48d1-9fac-19a30cfba745.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/916c4440-59ad-48d1-9fac-19a30cfba745#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1yrrlq7pab",
+      "Integrity": "x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\916c4440-59ad-48d1-9fac-19a30cfba745.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/9f3bbb73-da43-4eaa-b8be-aa7157df7fc1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\aa505a83-95f5-43e0-9a4d-454abacbbbfe.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/aa505a83-95f5-43e0-9a4d-454abacbbbfe#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0c4307wvi",
+      "Integrity": "M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\aa505a83-95f5-43e0-9a4d-454abacbbbfe.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\b182a2d6-3e4a-4c86-b112-82aa0b82383b.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/b182a2d6-3e4a-4c86-b112-82aa0b82383b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b182a2d6-3e4a-4c86-b112-82aa0b82383b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\c788175e-6449-497c-b286-63019b4c611a.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/c788175e-6449-497c-b286-63019b4c611a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c788175e-6449-497c-b286-63019b4c611a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\d4359ab9-9381-4f0e-981f-f0291178ef09.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/d4359ab9-9381-4f0e-981f-f0291178ef09#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d0c4307wvi",
+      "Integrity": "M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d4359ab9-9381-4f0e-981f-f0291178ef09.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\da9ed264-9a01-43a8-a486-c2997468e8ac.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/da9ed264-9a01-43a8-a486-c2997468e8ac#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\da9ed264-9a01-43a8-a486-c2997468e8ac.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\db48dbc1-88f3-4595-b968-9f7f49758801.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/db48dbc1-88f3-4595-b968-9f7f49758801#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\db48dbc1-88f3-4595-b968-9f7f49758801.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.jpg",
+      "SourceId": "AiCompany",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\",
+      "BasePath": "_content/AiCompany",
+      "RelativePath": "uploads/fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nqqcnotwq",
+      "Integrity": "ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.1yrrlq7pab.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:19:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yrrlq7pab"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\0b64cf77-1816-49a8-bd4f-2e17eb43bfa6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:19:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1fa417f8-cd61-417a-a1f2-0019a23a8a74.1yrrlq7pab.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\1fa417f8-cd61-417a-a1f2-0019a23a8a74.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 16:55:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yrrlq7pab"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1fa417f8-cd61-417a-a1f2-0019a23a8a74.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1fa417f8-cd61-417a-a1f2-0019a23a8a74.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\1fa417f8-cd61-417a-a1f2-0019a23a8a74.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 16:55:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/221e92fe-d9dc-4094-a02d-062a06ff4b76.d0c4307wvi.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\221e92fe-d9dc-4094-a02d-062a06ff4b76.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 17:41:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0c4307wvi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/221e92fe-d9dc-4094-a02d-062a06ff4b76.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/221e92fe-d9dc-4094-a02d-062a06ff4b76.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\221e92fe-d9dc-4094-a02d-062a06ff4b76.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 17:41:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3487aba2-461c-4017-b844-6ab2904ea1b6.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\3487aba2-461c-4017-b844-6ab2904ea1b6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:16:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3487aba2-461c-4017-b844-6ab2904ea1b6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3487aba2-461c-4017-b844-6ab2904ea1b6.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\3487aba2-461c-4017-b844-6ab2904ea1b6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:16:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/366bff62-e60c-4aec-ad1c-c277e22fbef1.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\366bff62-e60c-4aec-ad1c-c277e22fbef1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/366bff62-e60c-4aec-ad1c-c277e22fbef1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/366bff62-e60c-4aec-ad1c-c277e22fbef1.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\366bff62-e60c-4aec-ad1c-c277e22fbef1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:23:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4017bf75-4943-4f23-8fe6-6b58bbac5c16.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\4017bf75-4943-4f23-8fe6-6b58bbac5c16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4017bf75-4943-4f23-8fe6-6b58bbac5c16.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4017bf75-4943-4f23-8fe6-6b58bbac5c16.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\4017bf75-4943-4f23-8fe6-6b58bbac5c16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5071f1d2-54bd-4c07-868e-87ebc2ed1293.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\5071f1d2-54bd-4c07-868e-87ebc2ed1293.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 19:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5071f1d2-54bd-4c07-868e-87ebc2ed1293.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5071f1d2-54bd-4c07-868e-87ebc2ed1293.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\5071f1d2-54bd-4c07-868e-87ebc2ed1293.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 19:51:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/616ae63c-ce4a-47f2-9362-0e4fe4c78eea.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\616ae63c-ce4a-47f2-9362-0e4fe4c78eea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/616ae63c-ce4a-47f2-9362-0e4fe4c78eea.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/616ae63c-ce4a-47f2-9362-0e4fe4c78eea.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\616ae63c-ce4a-47f2-9362-0e4fe4c78eea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:18:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.d0c4307wvi.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:30:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0c4307wvi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\6504c22c-6fb2-4608-9dd4-b5ba2a1c1e9d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:30:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7707a749-1d2f-4eba-9816-9ca21da5038f.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\7707a749-1d2f-4eba-9816-9ca21da5038f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7707a749-1d2f-4eba-9816-9ca21da5038f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7707a749-1d2f-4eba-9816-9ca21da5038f.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\7707a749-1d2f-4eba-9816-9ca21da5038f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/916c4440-59ad-48d1-9fac-19a30cfba745.1yrrlq7pab.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\916c4440-59ad-48d1-9fac-19a30cfba745.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:24:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yrrlq7pab"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/916c4440-59ad-48d1-9fac-19a30cfba745.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/916c4440-59ad-48d1-9fac-19a30cfba745.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\916c4440-59ad-48d1-9fac-19a30cfba745.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:24:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6zZsIaBsMHL2hRWkxWAEpWcnAHtbQlgdUQyDuIJwVc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 17:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\9f3bbb73-da43-4eaa-b8be-aa7157df7fc1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 17:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/aa505a83-95f5-43e0-9a4d-454abacbbbfe.d0c4307wvi.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\aa505a83-95f5-43e0-9a4d-454abacbbbfe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 17:42:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0c4307wvi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/aa505a83-95f5-43e0-9a4d-454abacbbbfe.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/aa505a83-95f5-43e0-9a4d-454abacbbbfe.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\aa505a83-95f5-43e0-9a4d-454abacbbbfe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 17:42:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b182a2d6-3e4a-4c86-b112-82aa0b82383b.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\b182a2d6-3e4a-4c86-b112-82aa0b82383b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:22:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b182a2d6-3e4a-4c86-b112-82aa0b82383b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b182a2d6-3e4a-4c86-b112-82aa0b82383b.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\b182a2d6-3e4a-4c86-b112-82aa0b82383b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:22:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c788175e-6449-497c-b286-63019b4c611a.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\c788175e-6449-497c-b286-63019b4c611a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 15:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c788175e-6449-497c-b286-63019b4c611a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c788175e-6449-497c-b286-63019b4c611a.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\c788175e-6449-497c-b286-63019b4c611a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 15:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d4359ab9-9381-4f0e-981f-f0291178ef09.d0c4307wvi.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\d4359ab9-9381-4f0e-981f-f0291178ef09.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:30:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0c4307wvi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d4359ab9-9381-4f0e-981f-f0291178ef09.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d4359ab9-9381-4f0e-981f-f0291178ef09.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\d4359ab9-9381-4f0e-981f-f0291178ef09.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130282"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 19:30:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M5c3dJv5w7SHLEX4nltl5qLE5eK+d0MCvJ5S81pmCi8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/da9ed264-9a01-43a8-a486-c2997468e8ac.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\da9ed264-9a01-43a8-a486-c2997468e8ac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/da9ed264-9a01-43a8-a486-c2997468e8ac.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/da9ed264-9a01-43a8-a486-c2997468e8ac.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\da9ed264-9a01-43a8-a486-c2997468e8ac.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Aug 2025 21:04:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/db48dbc1-88f3-4595-b968-9f7f49758801.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\db48dbc1-88f3-4595-b968-9f7f49758801.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 15:38:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/db48dbc1-88f3-4595-b968-9f7f49758801.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/db48dbc1-88f3-4595-b968-9f7f49758801.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\db48dbc1-88f3-4595-b968-9f7f49758801.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 15:38:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.2nqqcnotwq.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 15:56:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nqqcnotwq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.jpg",
+      "AssetFile": "C:\\Users\\برنت\\source\\repos\\AiCompany\\AiCompany\\wwwroot\\uploads\\fd3d0f4a-320d-4f13-94b0-bbd1f289a5e7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 15:56:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ou5lNd0AxFDlNfv2xppGaLnaHbcRCTb0FQ5ec0LGYfs="
+        }
+      ]
+    }
+  ]
+}

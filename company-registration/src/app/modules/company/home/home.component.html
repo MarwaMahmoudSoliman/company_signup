@@ -1,0 +1,7 @@
+
+<div class="home-container">
+    <img [src]="company?.logoPath" alt="Company Logo" class="logo" *ngIf="company?.logoPath" />
+    <h2>Hello {{ company?.englishName || 'Company' }}</h2>
+
+    <button (click)="logout()">Logout</button>
+</div>

@@ -1,0 +1,28 @@
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+
+    input {
+        padding: 8px;
+        margin-bottom: 10px;
+    }
+
+    .error {
+        color: red;
+        font-size: 0.9rem;
+        margin-bottom: 10px;
+    }
+
+    button {
+        padding: 10px;
+        background-color: #2196f3;
+        color: white;
+        border: none;
+        cursor: pointer;
+
+        &:disabled {
+            background-color: #ccc;
+        }
+    }
+}

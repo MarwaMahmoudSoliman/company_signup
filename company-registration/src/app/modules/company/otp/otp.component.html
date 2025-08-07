@@ -1,0 +1,9 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <label>Email:</label>
+    <input formControlName="email" type="email" placeholder="Enter your email" />
+
+    <label>OTP:</label>
+    <input formControlName="otp" type="text" placeholder="Enter OTP" />
+
+    <button type="submit">Verify OTP</button>
+</form>
